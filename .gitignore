@@ -1,3 +1,8 @@
 .DS_Store
 *.log
 appstore.html
+
+# Kept locally so it can be added via the GitHub web UI later.
+# Ignored so `git add -A` won't re-stage it and re-trigger the
+# "PAT without workflow scope" push rejection.
+.github/
