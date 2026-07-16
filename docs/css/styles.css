@@ -153,6 +153,7 @@ section { padding: 72px 0; }
   width: min(340px, 82%); border-radius: 30px;
   filter: drop-shadow(0 30px 50px rgba(23,17,13,.28));
 }
+.hero-media img.hero-logo { border-radius: 22.37%; }
 .hero-badge {
   position: absolute; background: var(--bg-card); color: var(--ink);
   border: 1px solid var(--line); box-shadow: var(--shadow-lg);
