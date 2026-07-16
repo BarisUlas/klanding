@@ -161,6 +161,8 @@ section { padding: 72px 0; }
   filter: drop-shadow(0 30px 50px rgba(23,17,13,.28));
 }
 .hero-media img.hero-phone {
+  display: block;
+  margin-inline: auto;
   width: auto;
   height: auto;
   max-width: min(440px, 94%);
